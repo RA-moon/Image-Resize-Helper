@@ -6,7 +6,7 @@ A small macOS utility to batch-resize images to multiple target sizes and set DP
 
 
 ## Download (macOS Apple Silicon)
-[Download latest](https://github.com/RA-moon/Image-Resize-Helper/releases/latest/download/Resize%20JPG%20helper%20by%20RA-moon.app.zip)
+[Download latest](https://github.com/RA-moon/Image-Resize-Helper/releases/download/v1.0.0/Resize.JPG.helper.by.RA-moon.app.zip)
 
 
 ## Features
